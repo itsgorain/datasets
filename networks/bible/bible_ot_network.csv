@@ -1,7 +1,7 @@
 book,chapter,source,target
 genesis,1,god,heaven
 genesis,2,god,eden
-genesis,2,pijesus,havilah
+genesis,2,pison,havilah
 genesis,2,gihon,ethiopia
 genesis,2,hiddekel,assyria
 genesis,2,hiddekel,euphrates
@@ -4276,34 +4276,34 @@ judges,13,nazarite,israel
 judges,13,nazarite,philistines
 judges,13,manoah,god
 judges,13,god,manoah
-judges,13,samjesus,god
-judges,14,samjesus,timnath
-judges,14,samjesus,philistines
-judges,14,philistines,samjesus
+judges,13,samson,god
+judges,14,samson,timnath
+judges,14,samson,philistines
+judges,14,philistines,samson
 judges,14,god,israel
-judges,14,samjesus,entice
-judges,15,samjesus,philistines
-judges,15,samjesus,timnite
+judges,14,samson,entice
+judges,15,samson,philistines
+judges,15,samson,timnite
 judges,15,judah,lehi
-judges,15,judah,samjesus
+judges,15,judah,samson
 judges,15,judah,etam
 judges,15,lehi,philistines
 judges,15,lehi,god
 judges,15,god,enhakkore
 judges,15,god,lehi
 judges,15,israel,philistines
-judges,16,samjesus,gaza
-judges,16,gazites,samjesus
-judges,16,samjesus,hebron
+judges,16,samson,gaza
+judges,16,gazites,samson
+judges,16,samson,hebron
 judges,16,sorek,delilah
-judges,16,delilah,samjesus
+judges,16,delilah,samson
 judges,16,delilah,hitherto
 judges,16,nazarite,god
 judges,16,delilah,philistines
-judges,16,samjesus,god
+judges,16,samson,god
 judges,16,philistines,dagon
-judges,16,philistines,samjesus
-judges,16,samjesus,philistines
+judges,16,philistines,samson
+judges,16,samson,philistines
 judges,16,zorah,eshtaol
 judges,16,zorah,manoah
 judges,16,zorah,israel
@@ -6804,7 +6804,7 @@ ruth,4,obed,david
 2 kings,11,jehoiada,god
 2 kings,11,david,god
 2 kings,11,athaliah,god
-2 kings,11,athaliah,treajesus
+2 kings,11,athaliah,treason
 2 kings,11,baal,mattan
 2 kings,11,baal,god
 2 kings,12,jehu,jehoash
@@ -9827,7 +9827,7 @@ ruth,4,obed,david
 2 chronicles,23,jehoiada,david
 2 chronicles,23,jehoiada,god
 2 chronicles,23,athaliah,god
-2 chronicles,23,athaliah,treajesus
+2 chronicles,23,athaliah,treason
 2 chronicles,23,baal,mattan
 2 chronicles,23,jehoiada,levites
 2 chronicles,24,joash,jerusalem
@@ -11538,7 +11538,7 @@ psalms,83,assur,lot
 psalms,83,assur,selah
 psalms,83,midianites,sisera
 psalms,83,midianites,jabin
-psalms,83,midianites,kijesus
+psalms,83,midianites,kison
 psalms,83,oreb,zeeb
 psalms,83,oreb,zebah
 psalms,83,oreb,zalmunna

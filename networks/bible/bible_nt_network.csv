@@ -10,7 +10,7 @@ matthew,1,judas,thamar
 matthew,1,judas,esrom
 matthew,1,judas,aram
 matthew,1,aram,aminadab
-matthew,1,aram,naasjesus
+matthew,1,aram,naasson
 matthew,1,jesse,david
 matthew,1,jesse,solomon
 matthew,1,jesse,urias
@@ -471,7 +471,7 @@ luke,3,melea,nathan
 luke,3,melea,david
 luke,3,jesse,obed
 luke,3,jesse,booz
-luke,3,jesse,naasjesus
+luke,3,jesse,naasson
 luke,3,aminadab,aram
 luke,3,aminadab,esrom
 luke,3,aminadab,phares
@@ -1228,7 +1228,7 @@ acts,16,paul,silas
 acts,17,amphipolis,apollonia
 acts,17,amphipolis,thessalonica
 acts,17,paul,silas
-acts,17,jews,jajesus
+acts,17,jews,jason
 acts,17,paul,berea
 acts,17,paul,jews
 acts,17,jews,thessalonica
@@ -1337,7 +1337,7 @@ acts,21,paul,jews
 acts,21,paul,gentiles
 acts,21,paul,god
 acts,21,paul,jesus
-acts,21,caesarea,mnajesus
+acts,21,caesarea,mnason
 acts,21,caesarea,cyprus
 acts,21,paul,james
 acts,21,god,jews
@@ -1498,7 +1498,7 @@ romans,16,herodion,god
 romans,16,god,jesus
 romans,16,god,satan
 romans,16,timotheus,lucius
-romans,16,timotheus,jajesus
+romans,16,timotheus,jason
 romans,16,timotheus,sosipater
 romans,16,tertius,god
 romans,16,gaius,quartus
@@ -1760,7 +1760,7 @@ hebrews,11,isaac,esau
 hebrews,11,jacob,joseph
 hebrews,11,joseph,israel
 hebrews,11,gedeon,barak
-hebrews,11,gedeon,samjesus
+hebrews,11,gedeon,samson
 hebrews,11,gedeon,jephthae
 hebrews,11,gedeon,david
 hebrews,11,gedeon,samuel
