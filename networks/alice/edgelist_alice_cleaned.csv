@@ -3,27 +3,25 @@ White Rabbit,Alice
 White Rabbit,Mary Ann
 White Rabbit,Pat
 White Rabbit,Dinah
-White Rabbit,Bill
+White Rabbit,Lizard Bill
 White Rabbit,White Rabbit
 White Rabbit,Queen of Hearts
 White Rabbit,King of Hearts
-Alice,Fender
 Alice,Mabel
 Alice,William the Conqueror
 Alice,Mouse
 Alice,Lory
 Alice,Mary Ann
 Alice,Dinah
-Alice,Bill
+Alice,Lizard Bill
 Alice,Caterpillar
 Alice,Pigeon
 Alice,Fish-Footman
 Alice,Duchess
-Alice,Hare
+Alice,March Hare
 Alice,Dormouse
 Alice,Mad Hatter
 Alice,Kings
-Alice,Cat
 Alice,Cheshire Cat
 Alice,Lobster Quadrille
 Alice,Mock Turtle
@@ -36,13 +34,15 @@ Lory,Eaglet
 Lory,Crab
 Lory,Dinah
 Father William,Edgar Atheling
+Lizard Bill,Duchess
+Lizard Bill,March Hare
+Lizard Bill,King of Hearts
+Lizard Bill,Queen of Hearts
 Duchess,Cheshire Cat
-Duchess,Cat
-Duchess,Lizard
-Hare,Mad Hatter
-Hare,Lizard
+March Hare,Mad Hatter
+March Hare,Queen of Hearts
+March Hare,King of Hearts
 Dormouse,Mad Hatter
-Dormouse,Treacle
 Dormouse,King of Hearts
 Dormouse,Queen of Hearts
 Dormouse,Elsie
@@ -57,18 +57,14 @@ Queens,King of Hearts
 Queens,Queen of Hearts
 Gryphon,Queen of Hearts
 Gryphon,Mock Turtle
-Lizard,King of Hearts
-Lizard,Queen of Hearts
 Queen of Hearts,Frog-Footman
 Queen of Hearts,King of Hearts
 Queen of Hearts,Knave of Hearts
 Queen of Hearts,Card Gardener #1
 Queen of Hearts,Card Gardener #2
 Queen of Hearts,Card Gardener #3
-Queen of Hearts,March Hare
 Queen of Hearts,Mock Turtle
 Frog-Footman,King of Hearts
-March Hare,King of Hearts
 Card Gardener #1,King of Hearts
 Card Gardener #2,King of Hearts
 Card Gardener #3,King of Hearts
